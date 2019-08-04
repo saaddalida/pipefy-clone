@@ -2,7 +2,7 @@
 
 It is a clone of the Pipefy application using React and applying concepts of Drag n Drop.
 
-![Pipefy](pepefy.gif)
+![Pipefy](pipefy.gif)
 
 ## Built With
 
